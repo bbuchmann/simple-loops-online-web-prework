@@ -8,6 +8,8 @@ def 4.times do
 end
 
 def 
+  while= 4
+  
   
 end
 
