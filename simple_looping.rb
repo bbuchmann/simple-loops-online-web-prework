@@ -1,7 +1,7 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop do 
-  puts  4 
+  puts  1...10
   
   
   
