@@ -2,9 +2,6 @@
 
 def loop do 
   puts  1...10
-  
-  
-  
 end
 
 def times_iterator(number_of_times)
